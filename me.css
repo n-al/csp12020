@@ -1,0 +1,25 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+li {
+    float: left;
+  }
+  
+a {
+    display: block;
+    padding: 14px;
+    background-color: #dddddd;
+  }
+
+img {
+    border: 5px solid #555;
+  }
+
+  body {
+    background: #759da7;
+    font-family: cursive;
+
+}
